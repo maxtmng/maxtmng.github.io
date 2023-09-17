@@ -2,96 +2,129 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Max T.M. Ng (吳梓文)
     - name: Languages
-      value: English, German
+      value: English, Chinese (Cantonese & Mandarin); German (intermediate)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Transportation Systems Analysis & Planning
+      institution: Northwestern University, Evanston, USA
+      year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Cumulative GPA 3.91/4.00
+        - Diversity Peer Mentor, The Graduate School
+        - Fellow in Leadership, Center for Leadership
+        - Vice President, Northwestern Transportation Club
+    - title: Master of Science in Transportation Systems Analysis & Planning
+      institution: Northwestern University, Evanston, USA
+      year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Cumulative GPA 3.91/4.00
+        - Courses with A’s - Transport System Planning, Mgt., Ops., Demand; Economics; Time Series; Machine Learning; Optimization
+    - title: Bachelor of Engineering in Civil Engineering
+      institution: The University of Hong Kong, Hong Kong
+      year: 2011 - 2015
+      description:
+        - First Class Honours (Cumulative GPA 3.95/4.30)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: Northwestern University Transportation Center, Evanston, USA
+      year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      - title: Redesigning Multimodal Transit Networks with Shared Autonomous Mobility Service (in collaboration with Argonne National Laboratory)
+        contents:
+        - Developed an origin-labeled multi-commodity network flow formulation for transit network design 
+        - Built Python-based GIS tools to simulate transit networks with shared autonomous vehicles
+      - title: LOwering CO2 - Models to Optimize Train Infrastructure, Vehicles, & Energy Storage (funded by ARPA-E)
+        contents:
+        - Optimized battery-electric and hydrogen refueling facilities locations with sequential MILP models
+        - Developed an interactive dashboard (“NUFRIEND”) with Python, Plotly, and Dash for Class 1 railroads to visualize spatial deployment and evaluate carbon emissions, cost, and operations impacts
+      - title: COVID-19 Impact on American Railroads (funded by AAR) 
+        contents:
+        - Conducted time series analysis (ARIMA) to quantify COVID-19 impact on U.S. rail and intermodal 
+        - Visualized the trends of freight volumes and correlated economic indicators with Tableau
+
+    - title: Construction Engineer - Civil
+      institution: MTR Corporation, Hong Kong
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
+      - title: Exhibition Centre Station, Shatin-to-Central Link Contract 1123
+        contents:
+        - Project managed 30m-deep cut-and-cover excavation and station concrete works for ~3000m2 area in a dense business district
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Graduate Engineer
+      institution: MTR Corporation, Hong Kong
+      year: 2015 - 2018
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Secondee
+      institution: Atkins China Limited, Hong Kong
+      year: 2016 - 2017
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Service
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Reviewer for academic journals and conferences
+      description:
+      - Transportation Research Part A - Policy and Practice
+      - Transportation Research Record
+      - Transportation Research Board Annual Meeting
+      - ITS America Conference & Expo
+    - title: Representative for USA - Midwest
+      institution: Institution of Civil Engineers, London, UK
+      year: 2022 - 2025
+      description:
+      - Representing the ICE, supporting local members, and promoting civil engineering in 11 states
+    - title: President’s Future Leader
+      institution: Institution of Civil Engineers, London, UK
+      year: 2017 - 2018
+      description:
+      - Shadowed the President, Prof. Lord Robert Mair, in institutional visits, events, and taskforces
+      - Initiated and delivered a half-year STEM campaign “ICE200 Shaping Our Future City” with seminars, visits, and a public exhibition to promote engineering to 50+ students and 7000+ visitors
+    - title: Chairman
+      institution: Institution of Civil Engineers Hong Kong Asssociation Graduates and Students Division (ICE HKA G&S), Hong Kong
+      year: 2017 - 2018
+      description:
+      - Led 100+ committee members and helpers to organize 55 technical talks, visits, outreaches, and networking events for professional development of 1800+ graduates and students
+    - title: Site Visit and Seminar Team Leader
+      institution: Institution of Civil Engineers Hong Kong Asssociation Graduates and Students Division (ICE HKA G&S), Hong Kong
+      year: 2016 - 2017
+      description:
+      - Organized 20 technical seminars, visits, competitions, and technical workshops for graduates and students
+    - title: Founding Engineering Officer
+      institution: <a href='https://www.facebook.com/Pathfinder2013/'>Pathfinder Cambodia Volunteer Service</a>
+      year: 2014 - 2015
+      description:
+      - Designed and constructed a 3m-tall concrete platform, water filters, toilets and sanitation facilities for a rural primary school under regular flooding in Cambodia in six weeks with a raised fund of USD$20,000
 
-- title: Honors and Awards
+- title: Skill
+  type: map
+  contents:
+    - name: Technology and tool
+      value: Optimization (Gurobi, Knitro), network modeling, machine learning, coding (Python, Java, C++, R, MATLAB), time series, econometrics, data analytics, GIS, visualization (Tableau, Plotly, Dash), Microsoft Office
+    - name: Language
+      value: Full professional proficiency in English and Chinese; Intermediate in German
+
+- title: Award and Qualification
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - One-Year Grants for Doctoral Candidates, German Academic Exchange Service (DAAD)
+    - year: 2022
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Bob Camillone Memorial Scholarship, American Society of Civil Engineers Illinois Section, USA
+        - European Engineer, European Federation of National Engineering Associations (FEANI), Europe
+        - Passed PE Civil Exam (Transportation Depth), NCEES, USA
+    - year: 2020
       items:
-        - Description 1.
-        - Description 2.
+        - HKIE Young Engineers Arthur & Louise May Memorial Scholarship
+    - year: 2019
+      items:
+        - Chartered Engineer, Engineering Council, UK
+        - Member, Institution of Civil Engineers, UK
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

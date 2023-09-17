@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Max T.M. Ng",
+    // "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "maxng@u.northwestern.edu",
+    // "phone": "(912) 123-4567",
+    "url": "https://maxtmng.com",
+    // "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    // "location": {
+    //   "address": "2712 Broadway St",
+    //   "postalCode": "CA 94115",
+    //   "city": "San Francisco",
+    //   "countryCode": "US",
+    //   "region": "California"
+    // },
+    // "profiles": [
+    //   {
+    //     "network": "Twitter",
+    //     "username": "AlbertEinstein",
+    //     "url": "https://twitter.com/AlbertEinstein"
+    //   }
+    // ]
   },
   "work": [
     {
@@ -63,13 +63,21 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
       "language": "English",
       "fluency": "Fluent"
-    }
+    },
+    {
+      "language": "Chinese (Cantonese)",
+      "fluency": "Native"
+    },
+    {
+      "language": "Chinese (Mandarin)",
+      "fluency": "Native"
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate"
+    },
   ],
   "interests": [],
   "references": [],
