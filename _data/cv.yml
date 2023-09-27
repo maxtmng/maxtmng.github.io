@@ -39,15 +39,15 @@
       institution: <a href='https://transportation.northwestern.edu/'>Northwestern University Transportation Center</a>, Evanston, USA
       year: 2020 - 2024
       description:
-      - title: Redesigning Multimodal Transit Networks with Shared Autonomous Mobility Service (in collaboration with Argonne National Laboratory)
+      - title: <a href="https://arxiv.org/pdf/2307.16075.pdf">Redesigning Multimodal Transit Networks with Shared Autonomous Mobility Service</a> (in collaboration with Argonne National Laboratory)
         contents:
         - Developed an origin-labeled multi-commodity network flow formulation for transit network design 
         - Built Python-based GIS tools to simulate transit networks with shared autonomous vehicles
-      - title: LOwering CO2 - Models to Optimize Train Infrastructure, Vehicles, & Energy Storage (funded by ARPA-E)
+      - title: <a href="https://nufriend.transportation.northwestern.edu/">LOwering CO2 - Models to Optimize Train Infrastructure, Vehicles, & Energy Storage</a> (funded by ARPA-E, in collaboration with Argonne National Laboratory)
         contents:
         - Optimized battery-electric and hydrogen refueling facilities locations with sequential MILP models
         - Developed an interactive dashboard (“NUFRIEND”) with Python, Plotly, and Dash for Class 1 railroads to visualize spatial deployment and evaluate carbon emissions, cost, and operations impacts
-      - title: COVID-19 Impact on American Railroads (funded by AAR) 
+      - title: <a href="https://transportation.northwestern.edu/research/featured-reports/us-railroad-covid19-report.html">COVID-19 Impact on American Railroads</a> (in collaboration with the Asssociation of American Railroads (AAR)) 
         contents:
         - Conducted time series analysis (ARIMA) to quantify COVID-19 impact on U.S. rail and intermodal 
         - Visualized the trends of freight volumes and correlated economic indicators with Tableau
@@ -56,7 +56,7 @@
       institution: MTR Corporation, Hong Kong
       year: 2018 - 2020
       description:
-      - title: Exhibition Centre Station, Shatin-to-Central Link Contract 1123
+      - title: <a href="https://www.arup.com/projects/exhibition-centre-station">Exhibition Centre Station, Shatin-to-Central Link Contract 1123</a>
         contents:
         - Project managed 30m-deep cut-and-cover excavation and station concrete works for ~3000m2 area in a dense business district
 
@@ -67,6 +67,10 @@
     - title: Secondee
       institution: Atkins China Limited, Hong Kong
       year: 2016 - 2017
+      description:
+      - title: Jurong Region Line Contract J1003, Singapore
+        contents:
+        - Designed a 9km railway viaduct including span arrangement, noise barrier frame and prestressing
 
 - title: Service
   type: time_table

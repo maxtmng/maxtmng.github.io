@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Redesigning Large-Scale Multimodal Transit Networks with Shared Autonomous Mobility Services
+description: Public transit systems have faced challenges and opportunities from emerging Shared Autonomous Mobility Services (SAMS). This study addresses a city-scale multimodal transit network design problem, with shared autonomous vehicles as both transit feeders and a direct point-to-point mode.
+img: assets/img/multimodal1.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: multimodal_2023
 ---
 
 Every project has a beautiful feature showcase page.
