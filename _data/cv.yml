@@ -28,6 +28,9 @@
       year: 2011 - 2015
       description:
         - First Class Honours (Cumulative GPA 3.95/4.30)
+        - Dean's Honor List
+        - Deputy Chairman, HKIE Student Chapter - HKU
+        - Team Captain, Lee Shau Kee Hall Cantonese Debate Team
 
 - title: Experience
   type: time_table
@@ -79,6 +82,11 @@
       year: 2022 - 2025
       description:
       - Representing the ICE, supporting local members, and promoting civil engineering in 11 states
+    - title: Knowledge Network Member - Transport & Mobility
+      institution: Institution of Civil Engineers, London, UK
+      year: 2022 - 
+      description:
+      - Contributing academic knowledge to derive insights for infrastructure practitioners and policymakers
     - title: President’s Future Leader
       institution: Institution of Civil Engineers, London, UK
       year: 2017 - 2018
@@ -105,7 +113,7 @@
   type: map
   contents:
     - name: Technology and tool
-      value: Optimization (Gurobi, Knitro), network modeling, machine learning, coding (Python, Java, C++, R, MATLAB), time series, econometrics, data analytics, GIS, visualization (Tableau, Plotly, Dash), Microsoft Office
+      value: Optimization (Gurobi, Knitro), network modeling, machine learning, coding (Python, Java, C++, R, MATLAB), time series analysis, econometrics, data analytics, GIS, visualization (Tableau, Plotly, Dash), Microsoft Office
     - name: Language
       value: Full professional proficiency in English and Chinese (Cantonese & Mandarin); Intermediate in German
 
@@ -114,7 +122,8 @@
   contents:
     - year: 2023
       items: 
-        - One-Year Grants for Doctoral Candidates, German Academic Exchange Service (DAAD)
+        - Graduate Student Research Travel Award, Northwestern Buffett Institute for Global Affairs, USA
+        - One-Year Grants for Doctoral Candidates, German Academic Exchange Service (DAAD), Germany
     - year: 2022
       items: 
         - Bob Camillone Memorial Scholarship, American Society of Civil Engineers Illinois Section, USA
@@ -122,9 +131,28 @@
         - Passed PE Civil Exam (Transportation Depth), NCEES, USA
     - year: 2020
       items:
-        - HKIE Young Engineers Arthur & Louise May Memorial Scholarship
+        - HKIE Young Engineers Arthur & Louise May Memorial Scholarship, Hong Kong
     - year: 2019
       items:
         - Chartered Engineer, Engineering Council, UK
         - Member, Institution of Civil Engineers, UK
+    - year: 2017
+      items:
+        - Best Reporter & Outstanding Helper, Hong Kong Institution of Engineers Young Members Committee, Hong Kong
+    - year: 2016
+      items:
+        - Champion Team Leader, ICE HKA G&S Communications Competition, Hong Kong
+    - year: 2015
+      items:
+        - Sir Edward Youde Memorial Scholarship, Sir Edward Youde Memorial Fund, Hong Kong
+    - year: 2014
+      items:
+        - HSBC Hong Kong Scholarship, Hong Kong
+        - Reaching Out Award, HKSAR Government Scholarship Fund, Hong Kong
+        - Li & Fung Scholarship, Hong Kong
+    - year: 2013
+      items:
+        - Innovation and Technology Scholarship, Innovation and Technology Commission, HSBC, and HK Federation of Youth Groups, Hong Kong
+        - HKU Foundation Scholarships for Outstanding Students, Hong Kong
+
 
