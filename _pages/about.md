@@ -19,4 +19,4 @@ As a Ph.D. candidate in Transportation Systems Analysis & Planning at Northweste
 
 I am also a chartered civil engineer in the United Kingdom with experience in large-scale project management. I represent the <a href='https://ice.org.uk/'>Institution of Civil Engineers</a> in the eleven Midwestern states in the United States.
 
-I am currently visiting the <a href='https://www.mos.ed.tum.de/en/vt/home/'>Chair of Traffic Engineering and Control of Technical University of Munich</a>.
+This summer, I am a PhD Software / Machine Learning Engineer Intern at <a href='https://www.uber.com/us/en/autonomous/'>Uber Autonomous Mobility and Delivery</a> in San Francisco.
