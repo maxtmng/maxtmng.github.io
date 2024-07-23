@@ -52,6 +52,15 @@
         - Conducted time series analysis (ARIMA) to quantify COVID-19 impact on U.S. rail and intermodal 
         - Visualized the trends of freight volumes and correlated economic indicators with Tableau
 
+    - title: Visiting Doctoral Candidate
+      institution: <a href='https://www.mos.ed.tum.de/en/vt/home/'>Technical University of Munich (TUM) - Chair of Traffic Engineering and Control</a>, Evanston, USA
+      year: 2023 - 2024
+      description:
+      - title: <a href="https://github.com/TUM-VT/FleetPy">Simulation of shared autonomous vehicles (SAVs) in multimodal public transportation networks</a>
+        contents:
+        - Research visit sponsored by the DAAD (German Academic Exchange Service) and Northwestern Buffett Institute for Global Affairs
+        - Collaboration with TUM researchers on 
+
     - title: Construction Engineer - Civil
       institution: MTR Corporation, Hong Kong
       year: 2018 - 2020
