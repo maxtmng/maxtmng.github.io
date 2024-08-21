@@ -52,6 +52,15 @@
         - Conducted time series analysis (ARIMA) to quantify COVID-19 impact on U.S. rail and intermodal 
         - Visualized the trends of freight volumes and correlated economic indicators with Tableau
 
+    - title: PhD Software Engineer Intern
+      institution: <a href='https://www.uber.com/us/en/autonomous/'>Uber Technologies, Inc.</a>, San Francisco, USA
+      year: 2024
+      description:
+      - title: Machine Learning Model-Supported Repositioning for Autonomous Vehicles
+        contents:
+        - Developed MLP neural networks and deployed ML pipeline to predict demand for >1500 cities
+        - Built the backend system to reposition autonomous vehicles with optimal gross booking and costs
+
     - title: Visiting Doctoral Candidate
       institution: <a href='https://www.mos.ed.tum.de/en/vt/home/'>Technical University of Munich (TUM) - Chair of Traffic Engineering and Control</a>, Munich, Germany
       year: 2023 - 2024
@@ -86,10 +95,11 @@
   contents:
     - title: Reviewer for academic journals and conferences
       description:
+      - ITS America Conference & Expo
+      - Nature Scientific Reports
+      - Transportation Research Board Annual Meeting
       - Transportation Research Part A - Policy and Practice
       - Transportation Research Record
-      - Transportation Research Board Annual Meeting
-      - ITS America Conference & Expo
     - title: Representative for USA - Midwest
       institution: <a href="https://www.ice.org.uk/">Institution of Civil Engineers</a>, London, UK
       year: 2022 - 2025
@@ -126,13 +136,17 @@
   type: map
   contents:
     - name: Technology and tool
-      value: Optimization (Gurobi, Knitro), network modeling, machine learning, coding (Python, Java, C++, R, MATLAB), time series analysis, econometrics, data analytics, GIS, visualization (Tableau, Plotly, Dash), Microsoft Office
+      value: Optimization (Gurobi, Knitro), network modeling, machine learning (PyTorch, TensorFlow), coding (Python, Java, C++, R, MATLAB), time series analysis, econometrics, data analytics, GIS, visualization (Tableau, Plotly, Dash), DevOps, MLOps, Microsoft Office
     - name: Language
       value: Full professional proficiency in English and Chinese (Cantonese & Mandarin); Intermediate in German
 
 - title: Award and Qualification
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - DevOps and Software Engineering Professional Certificate, IBM, USA
+        - Machine Learning on Google Cloud Specialization, Google Cloud, USA
     - year: 2023
       items: 
         - Graduate Student Research Travel Award, Northwestern Buffett Institute for Global Affairs, USA
