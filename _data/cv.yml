@@ -56,11 +56,10 @@
       institution: <a href='https://www.uber.com/us/en/autonomous/'>Uber Technologies, Inc.</a>, San Francisco, USA
       year: 2024
       description:
-      - title: Machine Learning Model-Supported Repositioning for Autonomous Vehicles
+      - title: Autonomous Vehicle Repositioning with Machine Learning Models
         contents:
-        - Developed MLP neural networks and deployed ML pipeline to predict demand for >1500 cities
-        - Built the backend system to reposition autonomous vehicles with optimal gross booking and costs
-
+        - Developed deep learning models and deployed ML pipelines for demand prediction
+        - Implemented AV repositioning algorithm with backend integration in Java
     - title: Visiting Doctoral Candidate
       institution: <a href='https://www.mos.ed.tum.de/en/vt/home/'>Technical University of Munich (TUM) - Chair of Traffic Engineering and Control</a>, Munich, Germany
       year: 2023 - 2024
