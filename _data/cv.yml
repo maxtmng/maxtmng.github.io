@@ -60,6 +60,7 @@
         contents:
         - Developed deep learning models and deployed ML pipelines for demand prediction
         - Implemented AV repositioning algorithm with backend integration in Java
+
     - title: Visiting Doctoral Candidate
       institution: <a href='https://www.mos.ed.tum.de/en/vt/home/'>Technical University of Munich (TUM) - Chair of Traffic Engineering and Control</a>, Munich, Germany
       year: 2023 - 2024
@@ -67,7 +68,7 @@
       - title: <a href="https://github.com/TUM-VT/FleetPy">Simulation of shared autonomous vehicles (SAVs) in multimodal public transportation networks</a>
         contents:
         - Research visit sponsored by the DAAD (German Academic Exchange Service) and Northwestern Buffett Institute for Global Affairs
-        - Collaboration with TUM researchers on 
+        - Collaboration with TUM researchers in shared autonomous vehicle simulation
 
     - title: Construction Engineer - Civil
       institution: MTR Corporation, Hong Kong
