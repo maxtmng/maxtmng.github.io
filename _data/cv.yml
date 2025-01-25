@@ -13,7 +13,7 @@
       institution: Northwestern University, Evanston, USA
       year: 2020 - 2024
       description:
-        - Cumulative GPA 3.91/4.00
+        - Cumulative GPA 3.92/4.00
         - Diversity Peer Mentor, The Graduate School
         - Fellow in Leadership, Center for Leadership
         - Vice President, Northwestern Transportation Club
@@ -21,7 +21,7 @@
       institution: Northwestern University, Evanston, USA
       year: 2020 - 2022
       description:
-        - Cumulative GPA 3.91/4.00
+        - Cumulative GPA 3.92/4.00
         - Courses with A’s - Transport System Planning, Mgt., Ops., Demand; Economics; Time Series; Machine Learning; Optimization
     - title: Bachelor of Engineering in Civil Engineering
       institution: The University of Hong Kong, Hong Kong
@@ -35,6 +35,15 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Machine Learning Engineer / PhD Software Engineer Intern
+      institution: <a href='https://www.uber.com/us/en/autonomous/'>Uber Technologies, Inc.</a>, San Francisco, USA
+      year: 2024 - 
+      description:
+      - title: Autonomous Vehicle Repositioning with Machine Learning Models
+        contents:
+        - Developed deep learning models and deployed ML pipelines for demand prediction
+        - Implemented AV repositioning algorithm with backend integration in Java
+
     - title: Graduate Research Assistant
       institution: <a href='https://transportation.northwestern.edu/'>Northwestern University Transportation Center</a>, Evanston, USA
       year: 2020 - 2024
@@ -51,15 +60,6 @@
         contents:
         - Conducted time series analysis (ARIMA) to quantify COVID-19 impact on U.S. rail and intermodal 
         - Visualized the trends of freight volumes and correlated economic indicators with Tableau
-
-    - title: PhD Software Engineer Intern
-      institution: <a href='https://www.uber.com/us/en/autonomous/'>Uber Technologies, Inc.</a>, San Francisco, USA
-      year: 2024
-      description:
-      - title: Autonomous Vehicle Repositioning with Machine Learning Models
-        contents:
-        - Developed deep learning models and deployed ML pipelines for demand prediction
-        - Implemented AV repositioning algorithm with backend integration in Java
 
     - title: Visiting Doctoral Candidate
       institution: <a href='https://www.mos.ed.tum.de/en/vt/home/'>Technical University of Munich (TUM) - Chair of Traffic Engineering and Control</a>, Munich, Germany
