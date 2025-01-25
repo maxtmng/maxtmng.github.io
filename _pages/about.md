@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate, <a href='https://transportation.northwestern.edu/'>Northwestern University Transportation Center</a>
+subtitle: Machine Learning Engineer, <a href='https://www.uber.com/us/en/autonomous/'>Uber Autonomous Mobility & Delivery</a>
 
 profile:
   align: right
@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-As a Ph.D. candidate in Transportation Systems Analysis & Planning at Northwestern University, I am passionate about designing and modeling innovative, efficient, and sustainable mobility solutions for passengers and freight. My research interest lies in network design, optimization, and data analytics.
+I am passionate about designing and modeling innovative, efficient, and sustainable mobility solutions for passengers and freight. I finished my PhD in Transportation Systems Analysis & Planning at Northwestern University, focusing on network design, optimization, and data analytics.
 
-I am also a chartered civil engineer in the United Kingdom with experience in large-scale project management. I represent the <a href='https://ice.org.uk/'>Institution of Civil Engineers</a> in the eleven Midwestern states in the United States.
+I am also a chartered civil engineer in the United Kingdom with experience in large-scale project management. 
 
-This summer, I am a PhD Software / Machine Learning Engineer Intern at <a href='https://www.uber.com/us/en/autonomous/'>Uber Autonomous Mobility and Delivery</a> in San Francisco.
+I joined Uber in San Francisco in 2024, pushing forward the fleet management and service planning of autonomous vehicles.
