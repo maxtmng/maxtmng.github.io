@@ -19,4 +19,4 @@ I am passionate about designing and modeling innovative, efficient, and sustaina
 
 I am also a chartered civil engineer in the United Kingdom with experience in large-scale project management. 
 
-I joined Uber in San Francisco in 2024, pushing forward the fleet management and service planning of autonomous vehicles.
+I joined Uber Autonomous Mobility & Delivery in San Francisco in 2024, pushing forward optimization and service planning of shared autonomous vehicles.
